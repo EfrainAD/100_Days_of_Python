@@ -8,3 +8,5 @@ Day 2: From what I heard about Python I was suprized it was more picky about dat
 
 > Attempt 1: I didn't think the assiment would care about rounding, so I didn't. After I realized it did when they were showing the video just before shwoing me how to do it, I change my code to do that.
 > Attempt 2: I thought it would care at this point about print 5.5 as 5.50, so my code did that. Looks like I want in the other direction in what I thought it wanted.
+
+Day 3: If statment based game. Copyed the text from domo. Saw lecture, it instructed to lowercase the user input, so I changed that. I did learn I can split my input str in do multiple lines to make it more readable.
