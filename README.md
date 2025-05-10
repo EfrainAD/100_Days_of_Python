@@ -14,3 +14,5 @@ Day 3: If statment based game. Copyed the text from domo. Saw lecture, it instru
 Day 4: random.choice(list) function is cool.
 
 Day 5: Change my code after seeing theirs to use random.shuffle(list)
+
+Day 6: I did the challenage on the site they gave because I wanted to know if my idea for the advance code would work. I do like my answer better.
