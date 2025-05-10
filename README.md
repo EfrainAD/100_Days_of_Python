@@ -12,3 +12,5 @@ Day 2: From what I heard about Python I was suprized it was more picky about dat
 Day 3: If statment based game. Copyed the text from domo. Saw lecture, it instructed to lowercase the user input, so I changed that. I did learn I can split my input str in do multiple lines to make it more readable.
 
 Day 4: random.choice(list) function is cool.
+
+Day 5: Change my code after seeing theirs to use random.shuffle(list)
