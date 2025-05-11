@@ -16,3 +16,9 @@ Day 4: random.choice(list) function is cool.
 Day 5: Change my code after seeing theirs to use random.shuffle(list)
 
 Day 6: I did the challenage on the site they gave because I wanted to know if my idea for the advance code would work. I do like my answer better.
+
+Day 7:
+
+1. I don't have the list of words they gave so I just assigned one, and didn't make a file with a bunch of words.
+2. I didn't have all the hangan img (The demo game wasn't displaying it correctly, but I probably should set up to display ,image in the array with it matching the lives the user has.)
+3. I wish I didn't try to copy the text and making work the same as the demo. But it matchs in function even if it's implemented differently.
