@@ -22,3 +22,9 @@ Day 7:
 1. I don't have the list of words they gave so I just assigned one, and didn't make a file with a bunch of words.
 2. I didn't have all the hangan img (The demo game wasn't displaying it correctly, but I probably should set up to display ,image in the array with it matching the lives the user has.)
 3. I wish I didn't try to copy the text and making work the same as the demo. But it matchs in function even if it's implemented differently.
+
+Day 8:
+
+> I addes support for capatazed letters. (Demo didn't.)
+> Personalized messages based what if you were encrypting or decrypting
+> I learned to checked user input and have it handle wrong inputs. (Not learned that yet in this program.)
