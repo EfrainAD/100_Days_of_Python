@@ -28,3 +28,7 @@ Day 8:
 > I addes support for capatazed letters. (Demo didn't.)
 > Personalized messages based what if you were encrypting or decrypting
 > I learned to checked user input and have it handle wrong inputs. (Not learned that yet in this program.)
+
+Day 9:
+
+1. Nothing note worthy.
