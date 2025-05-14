@@ -32,3 +32,10 @@ Day 8:
 Day 9:
 
 1. Nothing note worthy.
+
+Day 10:
+
+1. I added % to the program
+2. I added a option to end the program. I didn't like it went forever in the demo.
+3. I did like how I implemented the other to options of starting over or continuing with the last number.
+4. I change my code to add the trick with dict. Very nice.
