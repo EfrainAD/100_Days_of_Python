@@ -39,3 +39,12 @@ Day 10:
 2. I added a option to end the program. I didn't like it went forever in the demo.
 3. I did like how I implemented the other to options of starting over or continuing with the last number.
 4. I change my code to add the trick with dict. Very nice.
+
+Day 11:
+
+1. I used a card list to make it more realistic.
+2. I used A, K, Q, and J cards and not just display 10 or 11 for those. This was more work to count the score, but it was well worth it.
+3. I displayed the cards wihout it showing an array format when it printed to the screen. Looks better.
+4. I displayed the computers faced down cards as []. So the player/user can see how many cards the computer took. As you would in a real game.
+5. I changed the way it displays with printing new lines to help it be more readable.
+6. I did have to go back and add the black jack win rule. I had already learned how the video solved that. So I don't know how I would have done it.
