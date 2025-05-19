@@ -48,3 +48,5 @@ Day 11:
 4. I displayed the computers faced down cards as []. So the player/user can see how many cards the computer took. As you would in a real game.
 5. I changed the way it displays with printing new lines to help it be more readable.
 6. I did have to go back and add the black jack win rule. I had already learned how the video solved that. So I don't know how I would have done it.
+
+Day 12: I learned python is not block scoped.
