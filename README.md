@@ -50,3 +50,5 @@ Day 11:
 6. I did have to go back and add the black jack win rule. I had already learned how the video solved that. So I don't know how I would have done it.
 
 Day 12: I learned python is not block scoped.
+
+Day 13: Was no project, just lectures on debugging
