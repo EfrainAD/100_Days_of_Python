@@ -52,3 +52,8 @@ Day 11:
 Day 12: I learned python is not block scoped.
 
 Day 13: Was no project, just lectures on debugging
+
+Day 14:
+
+1. I made it pick a random person, but not use the same person again.
+2. I used a var answer and then compared that. It's a lot easer to read then a bunch of if statements.
