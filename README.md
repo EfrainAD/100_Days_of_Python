@@ -57,3 +57,8 @@ Day 14:
 
 1. I made it pick a random person, but not use the same person again.
 2. I used a var answer and then compared that. It's a lot easer to read then a bunch of if statements.
+
+DAY 15:
+1. I had the program give me the change back in coins instead of just saying how much.
+2. This gave me issues with being a cent off, and I then start working with built in decimal function.
+3. Learned more about round(float, 2)  
